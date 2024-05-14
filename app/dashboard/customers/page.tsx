@@ -1,4 +1,4 @@
 export default function Page()
 {
-    return <p> Customer page </p>
+    return <p> Customer pa</p>
 }
